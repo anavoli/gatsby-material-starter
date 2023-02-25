@@ -29,7 +29,7 @@ const config: Types.SiteConfig = {
     lastName: "Last", // Used for SEO
     twitterName: "Vagr9K", // Twitter username used for SEO
     linkedIn: "your-linkedin", // Used for contact information
-    github: "vagr9k", // Used for contact information
+    github: "anavoli", // Used for contact information
     email: "MaterialUser@example.com", // Used for contact information and in the RSS feed
     location: "User Location", // User location used for SEO
     about: "A full-stack web developer looking for a challenge!", // User information used for the author section
